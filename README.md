@@ -1,1 +1,1 @@
-An introduction to html with The Odin Projct
+An introduction to html with The Odin Project
